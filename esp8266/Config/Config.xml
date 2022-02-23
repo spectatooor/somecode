@@ -2,7 +2,7 @@
 <DataChest>
   <Data name="ComboBoxFlashBaudrate.Text">
     <Type>String</Type>
-    <Value>230400</Value>
+    <Value>9600</Value>
   </Data>
   <Data name="ComboBoxFlashSize.ItemIndex">
     <Type>Integer</Type>
@@ -595,6 +595,38 @@
   <Data name="FrameConfigLine7.Offset">
     <Type>String</Type>
     <Value/>
+  </Data>
+  <Data name="FrameConfigLine5.FilePath">
+    <Type>String</Type>
+    <Value/>
+  </Data>
+  <Data name="FrameConfigLine7.FilePath">
+    <Type>String</Type>
+    <Value/>
+  </Data>
+  <Data name="FrameConfigLine6.Offset">
+    <Type>String</Type>
+    <Value/>
+  </Data>
+  <Data name="FrameConfigLine7.Offset">
+    <Type>String</Type>
+    <Value/>
+  </Data>
+  <Data name="FrameConfigLine5.FilePath">
+    <Type>String</Type>
+    <Value/>
+  </Data>
+  <Data name="FrameConfigLine5.Offset">
+    <Type>String</Type>
+    <Value/>
+  </Data>
+  <Data name="FrameConfigLine6.Offset">
+    <Type>String</Type>
+    <Value/>
+  </Data>
+  <Data name="FrameConfigLine7.Checked">
+    <Type>Boolean</Type>
+    <Value>False</Value>
   </Data>
   <Publisher>
     <Info>NodeMCU Team. http://www.nodemcu.com</Info>
